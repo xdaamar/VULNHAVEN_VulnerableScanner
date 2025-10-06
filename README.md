@@ -14,7 +14,7 @@ Lightweight CLI wrapper for running Xray-based web vulnerability scans, normaliz
 - Deduplication & ranking hasil berdasarkan severity.
 - Rekomendasi mitigasi/verifikasi tingkat tinggi (aman — **tidak** berisi langkah eksploitasi).
 - Export laporan otomatis: JSON (structured) + Markdown (human friendly).  
-- Fallback mock mode apabila Xray tidak tersedia (berguna saat development).
+- Fallback mock mode apabila Xray tidak tersedia (berguna saat development). 
 
 ---
 
