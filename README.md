@@ -6,7 +6,7 @@ Lightweight CLI wrapper for running Xray-based web vulnerability scans, normaliz
 > ⚠️ IMPORTANT: VULNHAVEN **requires** a working installation of **Xray** on the scanning machine (Linux). This README does **not** include instructions to install Xray — pastikan `xray` (atau path ke binary Xray) sudah tersedia dan dikonfigurasi di sistemmu sebelum menggunakan VULNHAVEN.
 
 ---
-
+ 
 ## Fitur utama
 - Satu CLI interaktif untuk melakukan scan Xray dengan tiga mode: `Normal`, `Silent`, `Brutal`.
 - Menjalankan Xray dari direktori konfigurasi sehingga `xray.yaml`/`module.xray.yaml` dipakai.
